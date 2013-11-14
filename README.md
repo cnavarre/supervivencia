@@ -1,4 +1,4 @@
-supervicencia
+supervivencia
 =============
 
-Tarea.1.Supervicencia
+Tarea.1.Supervivencia
